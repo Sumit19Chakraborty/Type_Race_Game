@@ -1,2 +1,2 @@
-# type_sumitcha
-type racing game
+# TYPE RACING GAME
+Wellcome to my type racing game
